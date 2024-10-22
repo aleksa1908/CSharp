@@ -1,0 +1,30 @@
+C:\Users\Aleksa\Desktop\C# Projects\bin\Debug\net7.0\C# Projects.exe
+C:\Users\Aleksa\Desktop\C# Projects\bin\Debug\net7.0\C# Projects.deps.json
+C:\Users\Aleksa\Desktop\C# Projects\bin\Debug\net7.0\C# Projects.runtimeconfig.json
+C:\Users\Aleksa\Desktop\C# Projects\bin\Debug\net7.0\C# Projects.dll
+C:\Users\Aleksa\Desktop\C# Projects\bin\Debug\net7.0\C# Projects.pdb
+C:\Users\Aleksa\Desktop\C# Projects\obj\Debug\net7.0\C# Projects.csproj.AssemblyReference.cache
+C:\Users\Aleksa\Desktop\C# Projects\obj\Debug\net7.0\C# Projects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleksa\Desktop\C# Projects\obj\Debug\net7.0\C# Projects.AssemblyInfoInputs.cache
+C:\Users\Aleksa\Desktop\C# Projects\obj\Debug\net7.0\C# Projects.AssemblyInfo.cs
+C:\Users\Aleksa\Desktop\C# Projects\obj\Debug\net7.0\C# Projects.csproj.CoreCompileInputs.cache
+C:\Users\Aleksa\Desktop\C# Projects\obj\Debug\net7.0\C# Projects.dll
+C:\Users\Aleksa\Desktop\C# Projects\obj\Debug\net7.0\refint\C# Projects.dll
+C:\Users\Aleksa\Desktop\C# Projects\obj\Debug\net7.0\C# Projects.pdb
+C:\Users\Aleksa\Desktop\C# Projects\obj\Debug\net7.0\C# Projects.genruntimeconfig.cache
+C:\Users\Aleksa\Desktop\C# Projects\obj\Debug\net7.0\ref\C# Projects.dll
+C:\Users\Aleksa\Desktop\C# all\C# Projects\bin\Debug\net7.0\C# Projects.exe
+C:\Users\Aleksa\Desktop\C# all\C# Projects\bin\Debug\net7.0\C# Projects.deps.json
+C:\Users\Aleksa\Desktop\C# all\C# Projects\bin\Debug\net7.0\C# Projects.runtimeconfig.json
+C:\Users\Aleksa\Desktop\C# all\C# Projects\bin\Debug\net7.0\C# Projects.dll
+C:\Users\Aleksa\Desktop\C# all\C# Projects\bin\Debug\net7.0\C# Projects.pdb
+C:\Users\Aleksa\Desktop\C# all\C# Projects\obj\Debug\net7.0\C# Projects.csproj.AssemblyReference.cache
+C:\Users\Aleksa\Desktop\C# all\C# Projects\obj\Debug\net7.0\C# Projects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleksa\Desktop\C# all\C# Projects\obj\Debug\net7.0\C# Projects.AssemblyInfoInputs.cache
+C:\Users\Aleksa\Desktop\C# all\C# Projects\obj\Debug\net7.0\C# Projects.AssemblyInfo.cs
+C:\Users\Aleksa\Desktop\C# all\C# Projects\obj\Debug\net7.0\C# Projects.csproj.CoreCompileInputs.cache
+C:\Users\Aleksa\Desktop\C# all\C# Projects\obj\Debug\net7.0\C# Projects.dll
+C:\Users\Aleksa\Desktop\C# all\C# Projects\obj\Debug\net7.0\refint\C# Projects.dll
+C:\Users\Aleksa\Desktop\C# all\C# Projects\obj\Debug\net7.0\C# Projects.pdb
+C:\Users\Aleksa\Desktop\C# all\C# Projects\obj\Debug\net7.0\C# Projects.genruntimeconfig.cache
+C:\Users\Aleksa\Desktop\C# all\C# Projects\obj\Debug\net7.0\ref\C# Projects.dll
